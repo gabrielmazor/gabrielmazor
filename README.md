@@ -4,7 +4,7 @@ I'm **Gabriel Mazor**. I have a diverse background spanning sales, machine learn
 
 ### About me
 - 📍 Based in Tel Aviv, Israel
-- 💼 ex-SAP, where I built strategic, technical integrations with cutting-edge startups
+- 💼 ex-SAP, where I built technical integrations with strategic cutting-edge startups
 - 👨🏻‍💻 Currently pursuing M.Sc. in **Machine Learning and Data Science** at Reichman University
 - 🎓 B.A. in **Business Administration and Digital Innovation** at Reichman University
 - 🏠 **Home Assistant expert** - designing and implementing **advanced smart home systems**
